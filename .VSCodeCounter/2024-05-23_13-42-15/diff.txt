@@ -1,0 +1,100 @@
+Date : 2024-05-23 13:42:15
+Directory : /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components
+Total : 60 files,  2908 codes, 6 comments, 304 blanks, all 3218 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         60 |      2,908 |          6 |        304 |      3,218 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                           | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                              |         60 |      2,908 |          6 |        304 |      3,218 |
+| ..                                                                                             |         17 |       -952 |        -49 |       -256 |     -1,257 |
+| ../backend                                                                                     |         17 |       -952 |        -49 |       -256 |     -1,257 |
+| ../backend/config                                                                              |          1 |         -9 |          0 |         -4 |        -13 |
+| ../backend/controllers                                                                         |          5 |       -540 |        -44 |       -185 |       -769 |
+| ../backend/middlewares                                                                         |          2 |        -43 |          0 |        -14 |        -57 |
+| ../backend/models                                                                              |          5 |       -257 |         -4 |        -26 |       -287 |
+| ../backend/utils                                                                               |          4 |       -103 |         -1 |        -27 |       -131 |
+| admin                                                                                          |          8 |        939 |         19 |        111 |      1,069 |
+| auth                                                                                           |          5 |        478 |          0 |         92 |        570 |
+| cart                                                                                           |          2 |        388 |          4 |         52 |        444 |
+| layouts                                                                                        |          9 |        885 |          5 |        120 |      1,010 |
+| orders                                                                                         |          2 |        114 |          0 |         16 |        130 |
+| products                                                                                       |          3 |        243 |          7 |         39 |        289 |
+| review                                                                                         |          2 |        112 |          0 |         16 |        128 |
+| ui                                                                                             |          9 |        356 |         20 |         56 |        432 |
+| user                                                                                           |          3 |        345 |          0 |         58 |        403 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                       | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/config/dbConnect.js               | JavaScript |         -9 |          0 |         -4 |        -13 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/controllers/addressControllers.js | JavaScript |        -45 |          0 |        -17 |        -62 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/controllers/authControllers.js    | JavaScript |       -111 |         -1 |        -31 |       -143 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/controllers/categoryController.js | JavaScript |        -66 |         -2 |        -14 |        -82 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/controllers/orderControllers.js   | JavaScript |       -153 |         -2 |        -46 |       -201 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/controllers/productControllers.js | JavaScript |       -165 |        -39 |        -77 |       -281 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/middlewares/auth.js               | JavaScript |        -23 |          0 |         -8 |        -31 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/middlewares/errors.js             | JavaScript |        -20 |          0 |         -6 |        -26 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/models/address.js                 | JavaScript |        -41 |          0 |         -5 |        -46 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/models/category.js                | JavaScript |        -22 |          0 |         -3 |        -25 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/models/order.js                   | JavaScript |        -65 |          0 |         -3 |        -68 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/models/product.js                 | JavaScript |        -80 |          0 |         -7 |        -87 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/models/user.js                    | JavaScript |        -49 |         -4 |         -8 |        -61 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/utils/APIFilters.js               | JavaScript |        -46 |         -1 |        -14 |        -61 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/utils/cloudinary.js               | JavaScript |        -24 |          0 |         -5 |        -29 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/utils/errorHandler.js             | JavaScript |         -8 |          0 |         -3 |        -11 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/backend/utils/multer.js                   | JavaScript |        -25 |          0 |         -5 |        -30 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/admin/NewProduct.jsx           | JavaScript |        180 |          1 |         11 |        192 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/admin/Orders.jsx               | JavaScript |         99 |         12 |         10 |        121 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/admin/Products.jsx             | JavaScript |         87 |          0 |         10 |         97 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/admin/UpdateOrder.jsx          | JavaScript |        136 |          0 |         15 |        151 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/admin/UpdateProduct.jsx        | JavaScript |        193 |          0 |         22 |        215 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/admin/UpdateUser.jsx           | JavaScript |         93 |          0 |         15 |        108 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/admin/UploadImages.jsx         | JavaScript |         81 |          0 |         19 |        100 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/admin/Users.jsx                | JavaScript |         70 |          6 |          9 |         85 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/auth/Login.jsx                 | JavaScript |        113 |          0 |         15 |        128 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/auth/Profile.jsx               | JavaScript |         48 |          0 |         22 |         70 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/auth/Register.jsx              | JavaScript |        107 |          0 |         12 |        119 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/auth/UpdatePassword.jsx        | JavaScript |         67 |          0 |         12 |         79 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/auth/UpdateProfile.jsx         | JavaScript |        143 |          0 |         31 |        174 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/cart/Cart.jsx                  | JavaScript |        174 |          2 |         14 |        190 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/cart/Shipping.jsx              | JavaScript |        214 |          2 |         38 |        254 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/layouts/BreadCrumbs.jsx        | JavaScript |         45 |          0 |          7 |         52 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/layouts/CustomPagination.jsx   | JavaScript |         41 |          0 |         10 |         51 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/layouts/Filters.jsx            | JavaScript |        200 |          0 |         16 |        216 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/layouts/Header.jsx             | JavaScript |        154 |          0 |         10 |        164 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/layouts/Header2.jsx            | JavaScript |         80 |          4 |         15 |         99 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/layouts/Search.jsx             | JavaScript |         43 |          1 |          6 |         50 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/layouts/Search2.jsx            | JavaScript |        100 |          0 |         14 |        114 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/layouts/Sidebar.jsx            | JavaScript |        113 |          0 |         13 |        126 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/layouts/Sidebar2.jsx           | JavaScript |        109 |          0 |         29 |        138 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/orders/ListOrders.jsx          | JavaScript |         31 |          0 |          8 |         39 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/orders/OrderItem.jsx           | JavaScript |         83 |          0 |          8 |         91 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/products/ListProducts.jsx      | JavaScript |         34 |          0 |          5 |         39 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/products/ProductDetails.jsx    | JavaScript |        131 |          0 |         13 |        144 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/products/ProductItem.jsx       | JavaScript |         78 |          7 |         21 |        106 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/review/NewReview.jsx           | JavaScript |         64 |          0 |         11 |         75 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/review/Reviews.jsx             | JavaScript |         48 |          0 |          5 |         53 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/ui/Button.jsx                  | JavaScript |         11 |          0 |          3 |         14 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/ui/Category.jsx                | JavaScript |         94 |          0 |          8 |        102 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/ui/FeaturedProducts.jsx        | JavaScript |         14 |          1 |          3 |         18 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/ui/Footer.jsx                  | JavaScript |         26 |          1 |          3 |         30 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/ui/Hero.jsx                    | JavaScript |         88 |         16 |         13 |        117 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/ui/ProductCard.jsx             | JavaScript |         11 |          1 |          2 |         14 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/ui/ProductGrid.jsx             | JavaScript |         69 |          0 |         10 |         79 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/ui/ProductGrid2.jsx            | JavaScript |         28 |          0 |         11 |         39 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/ui/Yoyo.jsx                    | JavaScript |         15 |          1 |          3 |         19 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/user/NewAddress.jsx            | JavaScript |        142 |          0 |         22 |        164 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/user/UpdateAddress.jsx         | JavaScript |        169 |          0 |         30 |        199 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/components/user/UserAddresses.jsx         | JavaScript |         34 |          0 |          6 |         40 |
+| Total                                                                                          |            |      2,908 |          6 |        304 |      3,218 |
++------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

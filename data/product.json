@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Samsung Crystal 4K UHD Smart TV",
+    "price": 54999,
+    "description": "A 43-inch 4K Ultra HD LED Smart TV with vibrant visuals and advanced features.",
+    "category": "665431b6ac110a24ecf9de6d", 
+    "seller": "Samsung",
+    "stock": 30,
+    "ratings": 4.5,
+    "reviews": [],
+    "specs": {
+      "Screen Size": "43 inches",
+      "Resolution": "4K Ultra HD (3840 x 2160)",
+      "Display Technology": "LED",
+      "Smart TV": "Yes",
+      "HDMI Ports": "3",
+      "USB Ports": "2"
+    }
+  }
+  {
+    "name": "LG OLED AI ThinQ Smart TV",
+    "price": 129999,
+    "description": "A 55-inch 4K Ultra HD OLED Smart TV with AI ThinQ technology and superior picture quality.",
+    "category": "665431b6ac110a24ecf9de6d",
+    "seller": "LG",
+    "stock": 20,
+    "ratings": 4.7,
+    "reviews": [],
+    "specs": {
+      "Screen Size": "55 inches",
+      "Resolution": "4K Ultra HD (3840 x 2160)",
+      "Display Technology": "OLED",
+      "Smart TV": "Yes",
+      "HDMI Ports": "4",
+      "USB Ports": "3"
+    }
+  }
+  {
+    "name": "Sony Bravia 4K Ultra HD Android TV",
+    "price": 89999,
+    "description": "A 50-inch 4K Ultra HD Android LED TV with stunning picture quality and smart features.",
+    "category": "665431b6ac110a24ecf9de6d",
+    "seller": "Sony",
+    "stock": 25,
+    "ratings": 4.6,
+    "reviews": [],
+    "specs": {
+      "Screen Size": "50 inches",
+      "Resolution": "4K Ultra HD (3840 x 2160)",
+      "Display Technology": "LED",
+      "Smart TV": "Yes",
+      "HDMI Ports": "4",
+      "USB Ports": "2"
+    }
+  }
+  {
+    "name": "Mi LED TV 4X",
+    "price": 34999,
+    "description": "A 43-inch 4K Ultra HD LED Smart TV offering great picture quality and value for money.",
+    "category": "665431b6ac110a24ecf9de6d", 
+    "stock": 40,
+    "ratings": 4.4,
+    "reviews": [],
+    "specs": {
+      "Screen Size": "43 inches",
+      "Resolution": "4K Ultra HD (3840 x 2160)",
+      "Display Technology": "LED",
+      "Smart TV": "Yes",
+      "HDMI Ports": "3",
+      "USB Ports": "2"
+    }
+  }
+  {
+    "name": "OnePlus U Series 4K LED Smart TV",
+    "price": 49999,
+    "description": "A 55-inch 4K Ultra HD LED Smart TV with premium design and smart features.",
+    "category": "665431b6ac110a24ecf9de6d", 
+    "seller": "OnePlus",
+    "stock": 35,
+    "ratings": 4.5,
+    "reviews": [],
+    "specs": {
+      "Screen Size": "55 inches",
+      "Resolution": "4K Ultra HD (3840 x 2160)",
+      "Display Technology": "LED",
+      "Smart TV": "Yes",
+      "HDMI Ports": "3",
+      "USB Ports": "2"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+Date : 2024-05-23 13:42:29
+Directory : /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/context
+Total : 5 files,  520 codes, 6 comments, 109 blanks, all 635 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |          5 |        520 |          6 |        109 |        635 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                            | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                               |          5 |        520 |          6 |        109 |        635 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                        | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/context/AuthContext.js     | JavaScript |        175 |          0 |         32 |        207 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/context/CartContext.js     | JavaScript |         91 |          1 |         22 |        114 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/context/CategoryContext.js | JavaScript |         66 |          5 |         18 |         89 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/context/OrderContext.js    | JavaScript |         69 |          0 |         15 |         84 |
+| /Users/manujamatia/Desktop/Main(TechGadgetHub)(Main)/context/ProductContext.js  | JavaScript |        119 |          0 |         22 |        141 |
+| Total                                                                           |            |        520 |          6 |        109 |        635 |
++---------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

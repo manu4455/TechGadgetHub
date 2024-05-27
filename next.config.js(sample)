@@ -1,0 +1,31 @@
+// next.config.js
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  experimental: {
+    appDir: true,
+  },
+  env: {
+    API_URL: "http://localhost:3000/",
+    DB_URI: "mongodb+srv://your-username:your-password@cluster0.your-mongodb.net/your-database?retryWrites=true&w=majority&appName=YourAppName",
+    CLOUD_NAME: "your-cloud-name",
+    CLOUDINARY_API_KEY: "your-cloudinary-api-key",
+    CLOUDINARY_API_SECRET: "your-cloudinary-api-secret",
+    NEXTAUTH_URL: "http://localhost:3000/",
+    RAZORPAY_KEY_ID: "your-razorpay-key-id",
+    RAZORPAY_KEY_SECRET: "your-razorpay-key-secret",
+    RAZORPAY_WEBHOOK_SECRET: "your-razorpay-webhook-secret",
+    NEXTAUTH_SECRET: "your-nextauth-secret",
+    ALGOLIA_APP_ID: "your-algolia-app-id",
+    ALGOLIA_API_KEY: "your-algolia-api-key",
+    ALGOLIA_INDEX_NAME: "your-algolia-index-name",
+    ALGOLIA_ADMIN_API_KEY: "your-algolia-admin-api-key",
+    GOOGLE_CLIENT_ID: "your-google-client-id",
+    GOOGLE_CLIENT_SECRET: "your-google-client-secret",
+  },
+  images: {
+    domains: ["res.cloudinary.com"],
+  },
+};
+
+module.exports = nextConfig;
